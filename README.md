@@ -8,4 +8,3 @@ SplashScreen, Fragment ViewPager2, Intent Player Name, Snack Bar, Custom Dialog,
 - Versus Player
 - new Menu and Icon App
 - get Internet Resource
-
