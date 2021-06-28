@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Paper Scissors Rock</string>
+    <string name="player_one">Player 1</string>
+    <string name="versus">VS</string>
+    <string name="computer">CPU</string>
+    <string name="refresh">Reset Game</string>
+    <string name="player_one_win">Player 1 WIN!</string>
+    <string name="player_two_win">Player 2 Win!</string>
+    <string name="draw">DRAW\n</string>
+    <string name="pick_rock">pick_rock</string>
+    <string name="pick_paper">pick_paper</string>
+    <string name="pick_scissors">pick_scissors</string>
+    <string name="menu_title">Please Select Your Enemy</string>
+    <string name="vs_player">Annas VS Player</string>
+    <string name="vs_cpu">Annas VS CPU</string>
+    <string name="play_again">Play Again</string>
+    <string name="back_to_menu">Back To Menu</string>
+    <string name="game_result">Game Result</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
